@@ -1,0 +1,9 @@
+# Keys, secrets, and environment files — never commit these
+*.json
+.env
+.env.*
+*.pem
+*.key
+credentials
+sessions.json
+keypairs.json
